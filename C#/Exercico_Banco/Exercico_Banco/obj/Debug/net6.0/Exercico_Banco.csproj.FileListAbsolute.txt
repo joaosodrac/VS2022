@@ -1,0 +1,15 @@
+C:\Users\Cesae\Documents\DataBase\C#\Exercico_Banco\Exercico_Banco\obj\Debug\net6.0\Exercico_Banco.csproj.AssemblyReference.cache
+C:\Users\Cesae\Documents\DataBase\C#\Exercico_Banco\Exercico_Banco\obj\Debug\net6.0\Exercico_Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesae\Documents\DataBase\C#\Exercico_Banco\Exercico_Banco\obj\Debug\net6.0\Exercico_Banco.AssemblyInfoInputs.cache
+C:\Users\Cesae\Documents\DataBase\C#\Exercico_Banco\Exercico_Banco\obj\Debug\net6.0\Exercico_Banco.AssemblyInfo.cs
+C:\Users\Cesae\Documents\DataBase\C#\Exercico_Banco\Exercico_Banco\obj\Debug\net6.0\Exercico_Banco.csproj.CoreCompileInputs.cache
+C:\Users\Cesae\Documents\DataBase\C#\Exercico_Banco\Exercico_Banco\bin\Debug\net6.0\Exercico_Banco.exe
+C:\Users\Cesae\Documents\DataBase\C#\Exercico_Banco\Exercico_Banco\bin\Debug\net6.0\Exercico_Banco.deps.json
+C:\Users\Cesae\Documents\DataBase\C#\Exercico_Banco\Exercico_Banco\bin\Debug\net6.0\Exercico_Banco.runtimeconfig.json
+C:\Users\Cesae\Documents\DataBase\C#\Exercico_Banco\Exercico_Banco\bin\Debug\net6.0\Exercico_Banco.dll
+C:\Users\Cesae\Documents\DataBase\C#\Exercico_Banco\Exercico_Banco\bin\Debug\net6.0\Exercico_Banco.pdb
+C:\Users\Cesae\Documents\DataBase\C#\Exercico_Banco\Exercico_Banco\obj\Debug\net6.0\Exercico_Banco.dll
+C:\Users\Cesae\Documents\DataBase\C#\Exercico_Banco\Exercico_Banco\obj\Debug\net6.0\refint\Exercico_Banco.dll
+C:\Users\Cesae\Documents\DataBase\C#\Exercico_Banco\Exercico_Banco\obj\Debug\net6.0\Exercico_Banco.pdb
+C:\Users\Cesae\Documents\DataBase\C#\Exercico_Banco\Exercico_Banco\obj\Debug\net6.0\Exercico_Banco.genruntimeconfig.cache
+C:\Users\Cesae\Documents\DataBase\C#\Exercico_Banco\Exercico_Banco\obj\Debug\net6.0\ref\Exercico_Banco.dll

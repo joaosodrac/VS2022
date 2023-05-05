@@ -1,0 +1,15 @@
+C:\Users\Cesae\Documents\DataBase\C#\Aula21_04\Aula21_04\bin\Debug\net6.0\Aula21_04.exe
+C:\Users\Cesae\Documents\DataBase\C#\Aula21_04\Aula21_04\bin\Debug\net6.0\Aula21_04.deps.json
+C:\Users\Cesae\Documents\DataBase\C#\Aula21_04\Aula21_04\bin\Debug\net6.0\Aula21_04.runtimeconfig.json
+C:\Users\Cesae\Documents\DataBase\C#\Aula21_04\Aula21_04\bin\Debug\net6.0\Aula21_04.dll
+C:\Users\Cesae\Documents\DataBase\C#\Aula21_04\Aula21_04\bin\Debug\net6.0\Aula21_04.pdb
+C:\Users\Cesae\Documents\DataBase\C#\Aula21_04\Aula21_04\obj\Debug\net6.0\Aula21_04.csproj.AssemblyReference.cache
+C:\Users\Cesae\Documents\DataBase\C#\Aula21_04\Aula21_04\obj\Debug\net6.0\Aula21_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesae\Documents\DataBase\C#\Aula21_04\Aula21_04\obj\Debug\net6.0\Aula21_04.AssemblyInfoInputs.cache
+C:\Users\Cesae\Documents\DataBase\C#\Aula21_04\Aula21_04\obj\Debug\net6.0\Aula21_04.AssemblyInfo.cs
+C:\Users\Cesae\Documents\DataBase\C#\Aula21_04\Aula21_04\obj\Debug\net6.0\Aula21_04.csproj.CoreCompileInputs.cache
+C:\Users\Cesae\Documents\DataBase\C#\Aula21_04\Aula21_04\obj\Debug\net6.0\Aula21_04.dll
+C:\Users\Cesae\Documents\DataBase\C#\Aula21_04\Aula21_04\obj\Debug\net6.0\refint\Aula21_04.dll
+C:\Users\Cesae\Documents\DataBase\C#\Aula21_04\Aula21_04\obj\Debug\net6.0\Aula21_04.pdb
+C:\Users\Cesae\Documents\DataBase\C#\Aula21_04\Aula21_04\obj\Debug\net6.0\Aula21_04.genruntimeconfig.cache
+C:\Users\Cesae\Documents\DataBase\C#\Aula21_04\Aula21_04\obj\Debug\net6.0\ref\Aula21_04.dll

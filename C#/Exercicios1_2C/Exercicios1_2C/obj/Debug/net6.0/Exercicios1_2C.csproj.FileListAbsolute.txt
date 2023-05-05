@@ -1,0 +1,15 @@
+C:\Users\Cesae\Documents\DataBase\C#\Exercicios1_2C\Exercicios1_2C\bin\Debug\net6.0\Exercicios1_2C.exe
+C:\Users\Cesae\Documents\DataBase\C#\Exercicios1_2C\Exercicios1_2C\bin\Debug\net6.0\Exercicios1_2C.deps.json
+C:\Users\Cesae\Documents\DataBase\C#\Exercicios1_2C\Exercicios1_2C\bin\Debug\net6.0\Exercicios1_2C.runtimeconfig.json
+C:\Users\Cesae\Documents\DataBase\C#\Exercicios1_2C\Exercicios1_2C\bin\Debug\net6.0\Exercicios1_2C.dll
+C:\Users\Cesae\Documents\DataBase\C#\Exercicios1_2C\Exercicios1_2C\bin\Debug\net6.0\Exercicios1_2C.pdb
+C:\Users\Cesae\Documents\DataBase\C#\Exercicios1_2C\Exercicios1_2C\obj\Debug\net6.0\Exercicios1_2C.csproj.AssemblyReference.cache
+C:\Users\Cesae\Documents\DataBase\C#\Exercicios1_2C\Exercicios1_2C\obj\Debug\net6.0\Exercicios1_2C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesae\Documents\DataBase\C#\Exercicios1_2C\Exercicios1_2C\obj\Debug\net6.0\Exercicios1_2C.AssemblyInfoInputs.cache
+C:\Users\Cesae\Documents\DataBase\C#\Exercicios1_2C\Exercicios1_2C\obj\Debug\net6.0\Exercicios1_2C.AssemblyInfo.cs
+C:\Users\Cesae\Documents\DataBase\C#\Exercicios1_2C\Exercicios1_2C\obj\Debug\net6.0\Exercicios1_2C.csproj.CoreCompileInputs.cache
+C:\Users\Cesae\Documents\DataBase\C#\Exercicios1_2C\Exercicios1_2C\obj\Debug\net6.0\Exercicios1_2C.dll
+C:\Users\Cesae\Documents\DataBase\C#\Exercicios1_2C\Exercicios1_2C\obj\Debug\net6.0\refint\Exercicios1_2C.dll
+C:\Users\Cesae\Documents\DataBase\C#\Exercicios1_2C\Exercicios1_2C\obj\Debug\net6.0\Exercicios1_2C.pdb
+C:\Users\Cesae\Documents\DataBase\C#\Exercicios1_2C\Exercicios1_2C\obj\Debug\net6.0\Exercicios1_2C.genruntimeconfig.cache
+C:\Users\Cesae\Documents\DataBase\C#\Exercicios1_2C\Exercicios1_2C\obj\Debug\net6.0\ref\Exercicios1_2C.dll

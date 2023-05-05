@@ -1,0 +1,15 @@
+C:\Users\Cesae\Documents\DataBase\C#\Problema_Stock\Problema_Stock\obj\Debug\net6.0\Problema_Stock.csproj.AssemblyReference.cache
+C:\Users\Cesae\Documents\DataBase\C#\Problema_Stock\Problema_Stock\obj\Debug\net6.0\Problema_Stock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesae\Documents\DataBase\C#\Problema_Stock\Problema_Stock\obj\Debug\net6.0\Problema_Stock.AssemblyInfoInputs.cache
+C:\Users\Cesae\Documents\DataBase\C#\Problema_Stock\Problema_Stock\obj\Debug\net6.0\Problema_Stock.AssemblyInfo.cs
+C:\Users\Cesae\Documents\DataBase\C#\Problema_Stock\Problema_Stock\obj\Debug\net6.0\Problema_Stock.csproj.CoreCompileInputs.cache
+C:\Users\Cesae\Documents\DataBase\C#\Problema_Stock\Problema_Stock\bin\Debug\net6.0\Problema_Stock.exe
+C:\Users\Cesae\Documents\DataBase\C#\Problema_Stock\Problema_Stock\bin\Debug\net6.0\Problema_Stock.deps.json
+C:\Users\Cesae\Documents\DataBase\C#\Problema_Stock\Problema_Stock\bin\Debug\net6.0\Problema_Stock.runtimeconfig.json
+C:\Users\Cesae\Documents\DataBase\C#\Problema_Stock\Problema_Stock\bin\Debug\net6.0\Problema_Stock.dll
+C:\Users\Cesae\Documents\DataBase\C#\Problema_Stock\Problema_Stock\bin\Debug\net6.0\Problema_Stock.pdb
+C:\Users\Cesae\Documents\DataBase\C#\Problema_Stock\Problema_Stock\obj\Debug\net6.0\Problema_Stock.dll
+C:\Users\Cesae\Documents\DataBase\C#\Problema_Stock\Problema_Stock\obj\Debug\net6.0\refint\Problema_Stock.dll
+C:\Users\Cesae\Documents\DataBase\C#\Problema_Stock\Problema_Stock\obj\Debug\net6.0\Problema_Stock.pdb
+C:\Users\Cesae\Documents\DataBase\C#\Problema_Stock\Problema_Stock\obj\Debug\net6.0\Problema_Stock.genruntimeconfig.cache
+C:\Users\Cesae\Documents\DataBase\C#\Problema_Stock\Problema_Stock\obj\Debug\net6.0\ref\Problema_Stock.dll

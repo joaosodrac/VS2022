@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-pt">
+    <!-- Na própria folha -->
+<head>
+    <meta charset="UTF-8">
+
+    <title>border</title>
+<!-- dar instruções para cada parte -->
+    <style>
+            body{
+                font-family: sans-serif;
+            }
+           
+            p{
+                background-color: #ccc;
+                border: 5px inset;
+                /* Inset/Outset sombra de molduras */
+            }
+
+            .destaque{
+                background-color: #000;
+                color: #fff; 
+
+            }
+            .limites{
+                border: 5px solid red;
+                padding: 10px 5px 1px 0px;
+                /* distancia personalizavel entre a moldura e o texto*/
+            }
+
+            .limites2{
+                border: 5px dashed red;
+                
+            }
+           
+            .outline{
+                outline: 5px solid black;
+           }
+
+           .mistura{
+            border: 5px;
+            border-style: double solid dotted dashed ;
+            /* Moldura dupla */
+           }
+            h1{
+                background-color: red;
+                padding: 20px; 
+                    /* aumenta a margem dentro da caixa */
+                    border: 10px solid blue;
+                  /* Moldura da caixa */
+
+            }
+
+            h2{
+                background-color: greenyellow;
+                width: 50%;
+                margin: 20px;
+                /* aumenta a margem fora da caixa */
+                border: 10px dotted red;
+            }
+    </style>
+</head>
+<body>
+    <h1>border</h1>
+
+    <h2>Width & height</h2>
+
+    <p class="limites">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, accusamus!</p>
+    <p class="destaque">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, accusamus!</p>
+    <p class="destaque limites">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, accusamus!</p>
+    <p class="mistura">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, accusamus!</p>
+    <p class="limites2 outline">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, accusamus!</p>
+    <p>Lorem ipsum dolor sit amet.</p>
+</html>

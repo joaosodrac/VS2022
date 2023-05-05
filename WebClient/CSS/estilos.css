@@ -1,0 +1,16 @@
+/* CSS Via Externa */
+
+body{
+                color: blue;
+                background-color: #ccc;
+                font-family: sans-serif;
+            }
+            p{
+                background-color: green;
+                color : yellow;
+            }
+/* sinal do CSS */
+            h2{
+                color: rebeccapurple;
+                background-color: yellowgreen;
+            }

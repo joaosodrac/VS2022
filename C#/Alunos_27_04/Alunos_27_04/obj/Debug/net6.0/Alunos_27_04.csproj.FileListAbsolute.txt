@@ -1,0 +1,15 @@
+C:\Users\Cesae\Documents\DataBase\C#\Alunos_27_04\Alunos_27_04\bin\Debug\net6.0\Alunos_27_04.exe
+C:\Users\Cesae\Documents\DataBase\C#\Alunos_27_04\Alunos_27_04\bin\Debug\net6.0\Alunos_27_04.deps.json
+C:\Users\Cesae\Documents\DataBase\C#\Alunos_27_04\Alunos_27_04\bin\Debug\net6.0\Alunos_27_04.runtimeconfig.json
+C:\Users\Cesae\Documents\DataBase\C#\Alunos_27_04\Alunos_27_04\bin\Debug\net6.0\Alunos_27_04.dll
+C:\Users\Cesae\Documents\DataBase\C#\Alunos_27_04\Alunos_27_04\bin\Debug\net6.0\Alunos_27_04.pdb
+C:\Users\Cesae\Documents\DataBase\C#\Alunos_27_04\Alunos_27_04\obj\Debug\net6.0\Alunos_27_04.csproj.AssemblyReference.cache
+C:\Users\Cesae\Documents\DataBase\C#\Alunos_27_04\Alunos_27_04\obj\Debug\net6.0\Alunos_27_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesae\Documents\DataBase\C#\Alunos_27_04\Alunos_27_04\obj\Debug\net6.0\Alunos_27_04.AssemblyInfoInputs.cache
+C:\Users\Cesae\Documents\DataBase\C#\Alunos_27_04\Alunos_27_04\obj\Debug\net6.0\Alunos_27_04.AssemblyInfo.cs
+C:\Users\Cesae\Documents\DataBase\C#\Alunos_27_04\Alunos_27_04\obj\Debug\net6.0\Alunos_27_04.csproj.CoreCompileInputs.cache
+C:\Users\Cesae\Documents\DataBase\C#\Alunos_27_04\Alunos_27_04\obj\Debug\net6.0\Alunos_27_04.dll
+C:\Users\Cesae\Documents\DataBase\C#\Alunos_27_04\Alunos_27_04\obj\Debug\net6.0\refint\Alunos_27_04.dll
+C:\Users\Cesae\Documents\DataBase\C#\Alunos_27_04\Alunos_27_04\obj\Debug\net6.0\Alunos_27_04.pdb
+C:\Users\Cesae\Documents\DataBase\C#\Alunos_27_04\Alunos_27_04\obj\Debug\net6.0\Alunos_27_04.genruntimeconfig.cache
+C:\Users\Cesae\Documents\DataBase\C#\Alunos_27_04\Alunos_27_04\obj\Debug\net6.0\ref\Alunos_27_04.dll
