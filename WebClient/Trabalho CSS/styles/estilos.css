@@ -2,6 +2,7 @@ body{
 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: darkgray;
+    margin:0;
 }
 
 .top{
@@ -68,4 +69,51 @@ background-size: cover;
     background-color: #000000a1;
     padding: 10px;
     display:inline-block;
+}
+
+main{
+
+    width: 80%;
+    margin:auto;
+
+}
+
+article{
+
+    background-color: whitesmoke;
+    padding: 16px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+article h2{
+
+border-bottom: 2px solid #ccc;
+background-color: #eee;
+padding: 10px;
+margin-top: 0;
+    
+}
+
+.Button{
+
+    background-color: #ccc;
+    display: block;
+    padding: 10px 10px;
+    width: fit-content;
+    margin-left: auto;
+    border-radius: 10px;
+    /* text-shadow: 3px 3px 10px blue; */
+
+}
+
+footer{
+
+    color: white;
+    text-align: center;
+    padding: 20px;
+    letter-spacing: 2px;
+    background-color: #797676;
+    text-shadow: 3px 3px 10px black;
 }

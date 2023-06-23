@@ -62,6 +62,9 @@ internal class Program
 
         ContaBancaria cb;
 
+        Console.WriteLine("Bem-vindo ao Banco do Gamanço");
+        Console.WriteLine();
+
         Console.WriteLine("Entre com o nº de conta: ");
         int numconta = int.Parse(Console.ReadLine());
         Console.WriteLine("Nome do titular de conta");
@@ -99,5 +102,6 @@ internal class Program
 
         cb.NomeTitular = "Maria";
         Console.WriteLine(cb);
+        Console.WriteLine("Se tudo correr bem, vais conseguir ler isto.");
     }
 }
